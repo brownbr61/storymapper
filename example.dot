@@ -1,0 +1,26 @@
+digraph G {
+  rankdir="TD"
+  compound=true;
+  node [shape=box];
+  edge [dir=none];
+
+  1->2->3;
+  subgraph cluster_plotlines{
+    subgraph cluster_plotline1{
+      rank = same; 1;
+      "point1";
+      "point2";
+      { rank = same; point1 -- point2 }
+    }
+    subgraph clustermsc{
+      rank = same; 2;
+      basket1;
+      basket2;
+    }
+    subgraph cluster_bottom{
+      rank = same; 3;
+      orange;
+      kiwi;
+    }
+  }
+}
