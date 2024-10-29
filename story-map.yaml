@@ -1,38 +1,42 @@
 Science of High Fantasy:
-  - Earthquake Happens:
-      chapter: 0
-  - Chasm Discovered:
-      chapter: 1
-  - Chasm Is Unmeasurable:
-      chapter: 1
-  - Beck Transitions:
-      chapter: 1
-  - Samples Collected:
-      chapter: 1
-  - Refugeemons Rise from Chasm:
-      chapter: 1
-  - 
+- name: Earthquake Happens,
+  chapter: 0
+- name: Chasm Discovered
+  chapter: 1
+- name: Chasm Is Unmeasurable,
+  chapter: 1
+- name: Samples Collected,
+  chapter: 3
+- name: Refugeemons Rise from Chasm,
+  chapter: 5
 
 Beck Transitions:
-  - Beck Breasts Boobily:
-      chapter: 1
-  - Beck's Boobing Breastily Bounces Back:
-      chapter: 1
-  - Beck Comes Out:
-      chapter: 1
-  - Beck Discovers Queer Community:
-      chapter: 1
+- name: Beck Breasts Boobily,
+  chapter: 1
+- name: Beck's Boobing Breastily Bounces Back,
+  chapter: 3
+- name: Beck Comes Out,
+  chapter: 5
+- name: Beck Discovers Queer Community,
+  chapter: 7
+- name: Beck Helps Queer Community,
+  chapter: 9
+
+The Passion of Hyrum, Adam, or Michael:
+- name: Wakes up Demon, Shaves Horns
+  chapter: 2
+- name: 
 
 The Legendarium:
-  - Exists:
-      chapter: 1
+- name: Exists
+  chapter: 1
 
 The Apocalypse:
-  - Chasm Believed to Be Gateway to Hell:
-      chapter: 1
-  - Tim Ballard Leads the War Against Hell:
-      chapter: 1
+- name: Chasm Believed to Be Gateway to Hell,
+  chapter: 3
+- name: Tim Ballard Starts War Against Hell,
+  chapter: 5
 
 Atheism vs Western Religion:
-  - Mormon Physicist, Also Queer Ally:
-      chapter: 1
+- name: Mormon Physicist (woman), Also Queer Ally,
+  chapter: 1

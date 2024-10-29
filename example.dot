@@ -1,4 +1,4 @@
-digraph G {
+graph G {
   rankdir="TD"
   compound=true;
   node [shape=box];
